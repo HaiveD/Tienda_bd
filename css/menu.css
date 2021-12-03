@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    /* overflow: hidden; */
+    font-family: 'Poppins', sans-serif !important; 
+}
+#sidebar-container{
+    min-height: 100vh ;
+    color: #ffffff;
+    background-color: #3b4652;
+}
+
+.logo{
+
+    height: 80px;
+    margin-left: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.navbar{
+    height: 80px;
+    background-color: #3b4652 !important;
+}
+.logo h4{
+    margin: 0;
+    font-size: 40px;
+}
+.menu{
+    width: 288px;
+}
+.menu a:hover{
+    text-decoration: none;
+    display: flex !important;
+    margin: auto !important;
+    background-color: #0a0b0c !important;
+}
+
+.perfil{
+    font-family: 'Poppins', sans-serif;
+    margin-right: 50px !important;
+}
+
+.menu a{
+    display: flex !important;
+    margin: auto !important;
+}
+.icon-perfil{
+    color: black;
+    display: flex !important;
+    margin: auto !important;
+}
+
+/* ---------------------------------------------- */
+.admin h1{
+    color: blue;
+}
+/* --------------FORM REGISTRO PRODUCTO-------------- */
+.ancla-btn{
+    display: flex !important;
+    /* margin: !important; */
+    /* text-align: center !important; */
+    width: 19% !important;
+    
+}
+.ancla-btn-medium{
+    display: flex !important;
+    width: 15% !important;
+}
+.btn-g{
+    margin-right: 10px !important; 
+}
+.botones{
+    display: flex;
+    
+}
+h1{
+    font-family: 'Poppins', sans-serif !important;
+}
